@@ -1,0 +1,8 @@
+{
+    "name": "wpcf7-recaptcha-cloned/recaptcha",
+    "description": "Some description",
+    "version": "1.0",
+    "require": {
+        "php": ">=5.4"
+    }
+}
